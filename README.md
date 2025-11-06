@@ -3,4 +3,8 @@ Ce tp est un tp que j'aime beaucoup et je donnerai énormément pour refaire ce 
 Je peux editer depuis vscode.
 
 
-je modofie pour faire un git pull
+je modifie pour faire un git pull
+
+je peux modifier depuis vscode
+
+il y avait des fautes de frappe
